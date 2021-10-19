@@ -1,0 +1,20 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/CM5XwGW/pexels-gustavo-fring-4173251.jpg",
+      "title": "Loren sekh",
+      "special": "Heart Sergion"
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/frmBymP/pexels-kindel-media-8326132.jpg",
+      "title": "Delii bos",
+      "special": "Therapist"
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/KFmn4p9/pexels-evelina-zhu-5434019.jpg",
+      "title": "Binna lara",
+      "special": "Cardiologist"
+    }
+  ]

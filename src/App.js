@@ -9,6 +9,9 @@ import Registration from './Components/Pages/RegistrationForm/Registration';
 import AuthProvider from './Context/AuthProvider';
 import Protect from './Components/ProtectRoute/Protect';
 import About from './Components/Pages/About/About';
+import Notfound from './Components/Pages/NotFound/Notfound';
+import Footer from './Components/Footer/Footer';
+import Contact from './Components/Pages/Contact/Contact';
 
 function App() {
   return (
@@ -32,11 +35,19 @@ function App() {
               <Route path="/register">
                 <Registration></Registration>
               </Route>
+              <Protect path="/contact">
+                <Contact></Contact>
+              </Protect>
               <Route exact path="/">
                 <Home></Home>
               </Route>
+              <Route path="*">
+                <Notfound></Notfound>
+              </Route>
             </Switch>
+            <Footer></Footer>
           </Router>
+          
         </AuthProvider>
     </>
   );

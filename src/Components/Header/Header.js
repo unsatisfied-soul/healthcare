@@ -52,16 +52,7 @@ const Header = () => {
                             <Link className="nav-link" to="/about">About Us</Link>
                         </li>
                         <li>
-                            <Link className="nav-link" to="/home">Services</Link>
-                        </li>
-                        <li>
-                            <Link className="nav-link" to="/home">Doctors</Link>
-                        </li>
-                        <li>
-                            <Link className="nav-link" to="/home">Blog</Link>
-                        </li>
-                        <li>
-                            <Link className="nav-link" to="/home">Contact US</Link>
+                            <Link className="nav-link" to="/contact">Contact US</Link>
                         </li>
                     </ul>
                 </div>

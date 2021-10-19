@@ -1,0 +1,28 @@
+.footer{
+    background-color: rgb(0, 39, 110);
+}
+.footer-one h2,
+.footer-two h3,
+.footer-three h3,
+.footer-four h3{
+    font-family: 'Lobster Two', cursive;
+    font-weight: bold;
+    color: rgb(255, 153, 0);
+}
+.sub{
+    color: rgb(0, 132, 255);
+}
+.top-footer{
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+}
+.footer-menu li{
+    display: inline;
+}
+.icon-dot{
+    margin-left: 10px;
+}
+.logbtn{
+    background-color: rgb(0, 132, 255);
+    color: white;
+}
