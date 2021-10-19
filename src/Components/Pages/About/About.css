@@ -5,3 +5,19 @@
     font-family: 'Acme', sans-serif;
     letter-spacing: 3px;
 }
+
+@media (max-width: 800px) {
+    .about{
+        display: block;
+    }
+    .top-img{
+        width: 100%;
+    }
+    .top-desc{
+        width: 100%;
+    }
+    .aboutus-bottom{
+        padding: 0;
+        margin-bottom: 40px;
+    }
+}

@@ -12,7 +12,7 @@ const Certifiedfetch = () => {
     return (
         <div className="doctors-details">
         <h2 className="text-5xl text-center">Our Certified Doctor</h2>
-        <div className=" w-10/12 mx-auto flex gap-10">
+        <div className=" w-10/12 mx-auto flex gap-10 doctor">
             
             {
                 doctors.map(doctor=> <CertifiedDoctor

@@ -57,3 +57,36 @@
 .btn-load{
     background-color: rgb(255, 153, 0);
 }
+@media (max-width: 800px) {
+    .doctor-detail{
+        margin: 0px;
+    }
+    .service-detail{
+        display: block;
+    }
+    
+    .services h2::before,
+    .doctors-details h2::before{
+        display: none;
+    }
+    .service-desc{
+        margin-bottom: 20px;
+    }
+}
+@media (max-width: 600px){
+    .doctor{
+        display: block;
+    }
+}
+@media (max-width: 400px) {
+    .conicon{
+        width: 100%;
+    }
+    .conicon h2{
+        font-size: 25px;
+    }
+    .conicon h4{
+        font-size: 18px;
+    }
+    
+}

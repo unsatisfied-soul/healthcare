@@ -1,3 +1,24 @@
 .contact-btn {
     background-color: rgb(255, 153, 0);
 }
+@media (max-width: 800px) {
+    .form-site{
+        width: 100%;
+        padding: 0px 14px;
+        margin-top: 40PX;
+    }
+}
+@media (max-width: 700px){
+    .input-field{
+        width: 100%;
+    }
+    .contact-details h2{
+        font-size: 20px;
+    }
+    .input-image{
+        display: none;
+    }
+    .map-image{
+        display: none;
+    }
+}

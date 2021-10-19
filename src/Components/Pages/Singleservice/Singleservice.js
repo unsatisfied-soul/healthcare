@@ -5,7 +5,6 @@ const Singleservice = () => {
     const {serviceId} = useParams();
     const [servicer,setServicer] = useState([])
     const [singleservice,setSingleservice] = useState({})
-    console.log(servicer)
     useEffect(() => {
         const serviceData = `/Services.json`
         fetch(serviceData)

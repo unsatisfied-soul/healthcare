@@ -4,12 +4,12 @@ import './Contact.css'
 const Contact = () => {
     return (
         <div className="contact pt-24">
-            <div className="contact-detail py-12 mb-8">
+            <div className="contact-detailes py-12 mb-8">
                 <h2 className="text-center text-5xl font-bold">Contact us / Appointment</h2>
-            <div className="form-site flex px-16 py-10">
+            <div className="form-site flex px-16 py-10 gap-5">
             <div className="input-field w-2/4 py-12">
-                <form className=" block mx-auto">
-                <textarea className="border border-black p-2 mb-2" rows="6" cols="60" name="comment" form="usrform">
+                <form className=" block mx-auto w-full">
+                <textarea className="border border-black p-2 mb-2 w-full h-56" name="comment" form="usrform">
                     write your problem...</textarea>
                     <br />
                     <input className="border border-black px-2 py-2 w-56" type="text" placeholder="name"/>
@@ -21,7 +21,7 @@ const Contact = () => {
             </form>
             </div>
             <div className="input-image w-2/4">
-                <img className="w-11/12" src='https://i.ibb.co/19nMY9H/Online-doctor-consultation-diagnostics-advice-or-support-of-patient-over-the-internet-video-call-on.jpg' alt="" />
+                <img className="w-full h-full" src='https://i.ibb.co/19nMY9H/Online-doctor-consultation-diagnostics-advice-or-support-of-patient-over-the-internet-video-call-on.jpg' alt="" />
             </div>
             </div>
             </div>

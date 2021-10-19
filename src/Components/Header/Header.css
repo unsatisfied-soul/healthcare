@@ -57,3 +57,81 @@
     font-weight: 500;
     font-size: 18px;
 }
+
+@media (max-width: 800px){
+    .ico{
+        font-size: 18px;
+    }
+    .cor{
+        font-size: 16px;
+    }
+    .log-info{
+        margin-right: 0px;
+    }
+    .contact-details{
+        margin-top: 0;
+    }
+    .logbtn{
+        padding: 8px 10px;
+    }
+    .banner{
+        padding-top: 0px;
+    }
+    .banner-left h2{
+        font-size: 35px;
+    }
+}
+
+@media (max-width: 672px){
+    .contact-detail{
+        display: none;
+    }
+    .logo h2{
+        font-size: 28px;
+    }
+    .banner{
+        gap: 0;
+        display: block;
+        width: 80%;
+        margin: auto;
+    }
+    .banner-left{
+        width: 100%;
+        text-align: center;
+    }
+    .banner-right{
+        width: 100%;
+    }
+    .banner-right img{
+        width: 60%;
+        margin: auto;
+    }
+}
+@media (max-width: 724px){
+    .top-header{
+        width: 100%;
+        padding: 22px 8px;
+    }
+    .banner-left{
+        padding: 34px 0px;
+    }
+}
+@media (max-width: 448px){
+    .space{
+        width: 25%;
+    }
+    .top-menu{
+        padding: 10px 0px;
+    }
+    .top-menu ul{
+        text-align: right;
+    }
+    .nav-link{
+        font-size: 16px;
+    }
+}
+@media (max-width: 350px){
+    .banner-left h2{
+        font-size: 30px;
+    }
+}

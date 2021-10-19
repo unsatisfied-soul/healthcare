@@ -13,13 +13,13 @@ const Header = () => {
         <div className="header">
             <div className="top-header w-11/12 mx-auto py-10 flex justify-between mb-4">
                 <div className="logo">
-                    <h2 className="text-5xl heading">Wellness<span className="heading-sub">Program</span></h2>
+                    <h2 className="lg:text-5xl heading md:text-3xl sm:text-3xl">Wellness<span className="heading-sub">Program</span></h2>
                 </div>
                 <div className="contact-details flex justify-around mt-5">
                     <div className="contact-detail">
                         <ul className="detail-ul">
-                            <li><FontAwesomeIcon className="text-xl" icon={faPhoneAlt} /> <span className="text-lg ml-1 font-bold">+9034535573</span> </li>
-                            <li><FontAwesomeIcon className="text-xl" icon={faEnvelope}></FontAwesomeIcon> <span className="text-lg ml-1 font-bold">www.xyz.com</span> </li>
+                            <li><FontAwesomeIcon className="text-xl ico" icon={faPhoneAlt} /> <span className="text-lg ml-1 font-bold cor ">+9034535573</span> </li>
+                            <li><FontAwesomeIcon className="text-xl ico" icon={faEnvelope}></FontAwesomeIcon> <span className="text-lg ml-1 font-bold cor">www.xyz.com</span> </li>
                         </ul>
                     </div>
                     <div className="log-info mr-4">

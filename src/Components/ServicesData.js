@@ -2,6 +2,7 @@ import { faArrowRight } from '@fortawesome/free-solid-svg-icons';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 import { Link } from 'react-router-dom';
+import '../Components/Pages/Singleservice/Singleservice.css'
 
 const ServicesData = (props) => {
     const {id,icon,title,desc} = props.service;
