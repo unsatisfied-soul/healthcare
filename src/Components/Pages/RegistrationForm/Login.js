@@ -50,11 +50,11 @@ const Login = () => {
                 <form onSubmit={handlesubmit}>
                 <div className="data mb-4">
                     <label className="text-xl font-bold">Email</label>
-                    <input onBlur={handemail} className="border border-black w-full h-11 mt-3 px-2" type="email" required/>
+                    <input onBlur={handemail} className="border border-black w-full h-11 mt-3 px-2 log-input" type="email" required/>
                 </div>
                 <div className="data mb-4">
                     <label className="text-xl font-bold">Password</label>
-                    <input onBlur={handpas} className="border w-full h-11 mt-3 border-black px-3" type="password"  required/>
+                    <input onBlur={handpas} className="border w-full h-11 mt-3 border-black px-3 log-input" type="password"  required/>
                 </div>
                 <p className="text-xl text-red-600">{error}</p>
                 <div className="inner mb-8">
