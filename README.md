@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Welness Program
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [WellnessProgram](https://wellnessprogram-5b1ce.web.app/).
 
 ## Available Scripts
 
