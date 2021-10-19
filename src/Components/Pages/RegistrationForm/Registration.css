@@ -1,0 +1,13 @@
+.login,
+.register{
+    width: 400px;
+    margin: auto;
+}
+.login h2,
+.register h2,
+.register-l{
+    color: rgb(0, 132, 255);
+}
+.inner-btn{
+    background-color: rgb(0, 132, 255);
+}

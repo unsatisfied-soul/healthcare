@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&display=swap');
+
+.main-container{
+    position: absolute;
+}
+.banner-left h2,
+.services h2{
+    font-family: 'Acme', sans-serif;
+    letter-spacing: 3px;
+}
+.subbanner-text{
+    color: rgb(0, 132, 255);
+}
+.services h2{
+    position: relative;
+}
+.services h2::before{
+    content: '';
+    position: absolute;
+    top: 85px;
+    width: 150px;
+    height: 4px;
+    left: 44%;
+    background-color: rgb(0, 132, 255);
+    align-items: center;
+    justify-content: center;
+}
+.service-desc{
+    box-shadow: 2px 3px 8px -4px #94dafa;
+}
+.service-detail{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
+.service-title{
+    font-family: 'Acme', sans-serif;
+
+}
+.service-btn{
+    background-color: rgb(0, 132, 255);
+}

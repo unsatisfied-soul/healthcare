@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:wght@700&display=swap');
+.heading{
+    font-family: 'Lobster Two', cursive;
+    font-weight: bold;
+    color: rgb(255, 153, 0);
+}
+.heading-sub{
+    color: rgb(0, 132, 255);
+}
+.detail-ul li{
+    display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+.top-header{
+    position: relative;
+}
+.logbtn{
+    background-color: rgb(0, 132, 255);
+    color: white;
+}
+.space{
+    border-top: 3px solid rgb(0, 132, 255);
+}
+.sub-header{
+    position: relative;
+}
+.top-menu{
+    position: relative;
+    top:-25px;
+    background-color: rgb(0, 132, 255);
+    box-shadow: 0px 6px 14px -3px rgb(173, 173, 173);
+}
+.top-menu::after{
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: -20px;
+    top: 0;
+    width: 60px;
+    height: 100%;
+    background: rgb(0, 132, 255);
+    clip-path: polygon(29% 0, 100% 0, 100% 100%, 0% 100%);
+}
+.top-menu ul{
+    text-align: center;
+}
+.top-menu ul li{
+    display: inline;
+}
+.top-menu ul li{
+    margin-left: 8px;
+}
+.nav-link{
+    padding: 4px 5px;
+    color: white;
+    font-weight: 500;
+    font-size: 18px;
+}

@@ -1,0 +1,44 @@
+[
+    {
+      "id": 1,
+      "icon": "https://i.ibb.co/CzHf3xj/stethoscope.png",
+      "title": "Qualified Doctor",
+      "desc": "An eligible rollover distribution is any distribution of all or any portion of the balance to the credit of the distributee, except that an eligible rollover distribution does not include: any distribution that is one of a series of substantially equal periodic payments (not less frequently than annually) made for the life (or life expectancy) of the distributee or the joint lives (or joint life expectancies) of the distributee and the distributees designated beneficiary or for a specified period of ten years or more any distribution to the extent such distribution is required under Code Section 401(a)(9); and the portion of any distribution that is not includible in gross income (determined without regard to the exclusion of net unrealized appreciation with respect to employer securities).",
+      "img": "https://i.ibb.co/QY660ft/successful-medical-team.jpg"
+    },
+    {
+      "id": 2,
+      "icon": "https://i.ibb.co/vXwjXbp/chat.png",
+      "title": "Medical counselling",
+      "desc": "At The Prescription Center we believe that a pharmacy should be much more than a place you get your prescription filled. More often than not, customers have questions about their prescriptions and don’t know who to ask. ThePrescription Center prides itself on its individual patient counseling. With patient counseling, we can help.Patient counseling refers to the process of providing vital information, advice and assistance to help you with your medications and to ensure you take them properly. This also includes important information about the patients illness and lifestyle. A patient is advised on whether medications should be taken with or without food, at bed time or in morning, with water, juice or milk, swallow whole or chew the tablet, time between each doses. All of this information results in the proper use and best therapeutic action of the medications.At The Prescription Center, our pharmacists have been well trained for patient counseling to ensure our customers get their questions answered. As a result patients receive plenty of information about the use of the medication including how and when to take the medication, how long to take and what to do if side effects occur, or even in the event a dose is missed by accident.Not having important information can lead to a patient incorrectly taking medicine, which may result in adverse effects.",
+      "img": "https://i.ibb.co/wMK91fC/pexels-mart-production-7089401.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Blood Bank",
+      "icon": "https://i.ibb.co/PzR7ZwV/blood-transfusion.png",
+      "desc": "A blood bank is a center where blood gathered as a result of blood donation is stored and preserved for later use in blood transfusion. The term \"blood bank\" typically refers to a division of a hospital where the storage of blood product occurs and where proper testing is performed (to reduce the risk of transfusion related adverse events). However, it sometimes refers to a collection center, and some hospitals also perform collection. Blood banking includes tasks related to blood collection, processing, testing, separation, and storage.",
+      "img": "https://i.ibb.co/j9XtQwV/pexels-roberto-carrafa-3908179.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Emergency Services",
+      "icon": "https://i.ibb.co/BNKswjd/emergency.png",
+      "desc": "Accident services were already provided by workmens compensation plans railway companies and municipalities in Europe and the United States by the late mid-nineteenth century, but the first specialized trauma care center in the world was opened in 1911 in the United States at the University of Louisville Hospital in Louisville, Kentucky, and was developed by surgeon Arnold Griswold during the 1930s. Griswold also equipped police and fire vehicles with medical supplies and trained officers to give emergency care while en route to the hospital.Today a typical hospital has its emergency department in its own section of the ground floor of the grounds, with its own dedicated entrance. As patients can arrive at any time and with any complaint, a key part of the operation of an emergency department is the prioritization of cases based on clinical need.[3] This process is called triage.Triage is normally the first stage the patient passes through, and consists of a brief assessment, including a set of vital signs, and the assignment of a \"chief complaint\" (e.g. chest pain, abdominal pain, difficulty breathing, etc.). Most emergency departments have a dedicated area for this process to take place and may have staff dedicated to performing nothing but a triage role.",
+      "img": "https://i.ibb.co/sFdjwQY/pexels-mikhail-nilov-8942516.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Operation Theater",
+      "icon": "https://i.ibb.co/ZdcqZ80/operation.png",
+      "desc": "Operating rooms are spacious, in a cleanroom, and well-lit, typically with overhead surgical lights, and may have viewing screens and monitors. Operating rooms are generally windowless, though windows are becoming more prevalent in newly built theatres to provide clinical teams with natural light, and feature controlled temperature and humidity. Special air handlers filter the air and maintain a slightly elevated pressure. Electricity support has backup systems in case of a black-out. Rooms are supplied with wall suction, oxygen, and possibly other anesthetic gases. Key equipment consists of the operating table and the anesthesia cart. In addition, there are tables to set up instruments. There is storage space for common surgical supplies. There are containers for disposables. Outside the operating room, or sometimes integrated within, is a dedicated scrubbing area that is used by surgeons, anesthetists, ODPs (operating department practitioners), and nurses prior to surgery. An operating room will have a map to enable the terminal cleaner to realign the operating table and equipment to the desired layout during cleaning. Operating rooms are typically supported by an anaesthetic room, prep room, scrub and a dirty utility room.[1]Several operating rooms are part of the operating suite that forms a distinct section within a health-care facility. Besides the operating rooms and their wash rooms, it contains rooms for personnel to change, wash, and rest, preparation and recovery rooms(s), storage and cleaning facilities, offices, dedicated corridors, and possibly other supportive units. In larger facilities, the operating suite is climate- and air-controlled, and separated from other departments so that only authorized personnel have access.",
+      "img": "https://i.ibb.co/94t2Ktx/pexels-vidal-balielo-jr-3376790.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Free Medicine",
+      "icon": "https://i.ibb.co/BsS8ZSg/medicine.png",
+      "desc": "The free medicines will be generics. Doctors working in health facilities will be required to prescribe generic drugs listed on state-determined “essential drug lists” and face penalties if they fail or decline to do so, though the nature of those penalties have not yet been specified.It is also expected to have a substantial impact on clinical practice and treatment protocols. As part of the initiative, the government has sent a national list of essential medicines, containing 348 medications, to each of India’s 28 states (http://pharmaceuticals.gov.in/NLEM.pdf), and asked them to appoint scientific committees to craft state lists (bearing in mind such factors as the local incidence of specific diseases), as well as standardized protocols for treatment. All generic drugs to be utilized within the plan will be purchased by a central, autonomous, national procurement agency, so as to achieve savings through bulk purchasing.",
+      "img": "https://i.ibb.co/NCB0tSN/pexels-pixabay-139398.jpg"
+    }
+  ]
