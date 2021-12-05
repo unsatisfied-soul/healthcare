@@ -1,4 +1,4 @@
-# Welness Program
+# Welness Programs
 Specialized teams of medical professionals work together to provide the most comprehensive medical and mental health support to patients. Our aim is to provide health care that is personalized to each patient’s needs. We offer an array of different types of patient support services that are designed to meet each patient where they are
 
 This project was bootstrapped with [WellnessProgram](https://wellnessprogram-5b1ce.web.app/).
